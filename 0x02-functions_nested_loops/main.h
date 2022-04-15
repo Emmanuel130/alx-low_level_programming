@@ -1,5 +1,5 @@
 
-#ifndef _MAIN_H_
+#include "main.h"
 #define _MAIN_H_
 
 void print_alphabet(void);
