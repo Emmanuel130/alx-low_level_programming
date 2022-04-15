@@ -1,3 +1,4 @@
+#ifdef _MAIN_H_
 #include "main.h"
 int main(void)
 {
