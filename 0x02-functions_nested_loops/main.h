@@ -1,5 +1,6 @@
 
 #include "main.h"
+
 {
 void print_alphabet(void);
 void jack_bauer(void);
@@ -14,4 +15,6 @@ int print_sign(int n);
 int _abs(int);
 int add(int n, int m);
 int print_last_digit(int n);
+return(0);
 }
+
