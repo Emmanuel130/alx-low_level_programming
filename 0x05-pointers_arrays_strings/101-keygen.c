@@ -1,4 +1,3 @@
-#include <main.h>
 #include <stdlio.h>
 /**
  *main - generates random valid passwords
