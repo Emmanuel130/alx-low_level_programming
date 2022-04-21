@@ -23,4 +23,4 @@ d = m;
 count = 1;
 
 while (d > 9)
-	}
+{
